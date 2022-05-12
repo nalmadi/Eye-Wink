@@ -13,7 +13,7 @@ available, and therefore this project will always be free to use and distribute 
 the creators and contributors). As this is a community driven project, your collaboration,
 feedback, and suggestions are most welcome!
 
-### Pre-Alpha Release
+## Pre-Alpha Release
 
 Pre-Alpha means that this software has not been tested completely yet. Using it at this
 stage could cause damage to your files, therefore it is advised to work on a copy of your
@@ -24,7 +24,7 @@ it would be helpful to discover and fix problems at this stage. An issue documen
 details of the bug would be much appreciated.
 
 
-#### Installation
+## Installation
 
 To install Eye-wink, start by downloading “Eye-Wink-Release-Pre-Alpha.zip” to your
 computer. Currently, Windows 7/8/10 are supported with Mac and Linux expected soon. 
@@ -38,14 +38,14 @@ The directory contains the executable “eye-wink.exe” and sample data files i
 directories “ASCII” which contains the ASCII exported eye-tracker files, and “runtime” which
 is copied from the eye-tracker data files as is.
 
-#### How can I open my own experiment data files?
+## How can I open my own experiment data files?
 
 Easy! First, you should convert your experiment data to ASCII format (using the eye-tracker
 provided software). Second, you should copy the folder “runtime” from your experiment to
 the working directory (directory where Eye-wink.exe is located at).
 
 
-#### Using Eye-Wink
+## Using Eye-Wink
 
 For the purpose of testing Eye-Wink sample data files are provided. So go ahead and
 double-click on “Eye-Wink.exe” and hopefully a window will open (if not, please record the
