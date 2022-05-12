@@ -89,9 +89,4 @@ slightly different, here the numbers associated with the eye-events (fixation/sa
 indicate the eye-event order of appearance in time. And the size of the fixation circle
 correlates to the duration of that fixation as shown in figure 3.
 
-#### Acknowledgement
-
-Many thanks to you, for your help with making this project better by sharing your feedback
-and comments. A list of project contributors will be compiled and shared with Eye-Wink V1.
-
 
