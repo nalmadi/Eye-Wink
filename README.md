@@ -7,7 +7,7 @@ By Naser Al Madi (from 2016)
 
 ## Introduction
 
-Eye-Wink is an open-source project for opening/visualizing/analyzing eye-tracker recorded
+Eye-Wink is an open-source tool for opening/visualizing/analyzing eye-tracker recorded
 data files. The project aims at making eye-tracking research tools accessible and easily
 available, and therefore this project will always be free to use and distribute (giving credit to
 the creators and contributors). As this is a community driven project, your collaboration,
