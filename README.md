@@ -1,9 +1,9 @@
 
 
 # 😉 Eye-Wink
-# User Manual and Documentation - Pre-Alpha release
+##### User Manual and Documentation - Pre-Alpha release
 
-By Naser Al Madi (from 2016)
+##### By Naser Al Madi (from 2016)
 
 ## Introduction
 
